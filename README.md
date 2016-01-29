@@ -1,3 +1,3 @@
-# LoreticSite
+# Loretic Site
 
-Readme
+The site of the company Loratic
