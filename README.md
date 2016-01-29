@@ -1,3 +1,3 @@
-# testgitFromDesktopToGithub
+# LoreticSite
 
 Readme
